@@ -1,0 +1,16 @@
+D:\Proyectos Visual Studio\ahorcado\ahorcado\bin\Debug\netcoreapp3.1\ahorcado.exe
+D:\Proyectos Visual Studio\ahorcado\ahorcado\bin\Debug\netcoreapp3.1\ahorcado.deps.json
+D:\Proyectos Visual Studio\ahorcado\ahorcado\bin\Debug\netcoreapp3.1\ahorcado.runtimeconfig.json
+D:\Proyectos Visual Studio\ahorcado\ahorcado\bin\Debug\netcoreapp3.1\ahorcado.runtimeconfig.dev.json
+D:\Proyectos Visual Studio\ahorcado\ahorcado\bin\Debug\netcoreapp3.1\ahorcado.dll
+D:\Proyectos Visual Studio\ahorcado\ahorcado\bin\Debug\netcoreapp3.1\ahorcado.pdb
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.csprojAssemblyReference.cache
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.Form1.resources
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.Properties.Resources.resources
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.csproj.GenerateResource.cache
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.AssemblyInfoInputs.cache
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.AssemblyInfo.cs
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.dll
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.pdb
+D:\Proyectos Visual Studio\ahorcado\ahorcado\obj\Debug\netcoreapp3.1\ahorcado.genruntimeconfig.cache
